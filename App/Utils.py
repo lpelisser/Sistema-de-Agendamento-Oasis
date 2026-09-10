@@ -1,6 +1,3 @@
-"""
-Funções utilitárias / helpers.
-"""
 from urllib.parse import quote
 
 from app import models
